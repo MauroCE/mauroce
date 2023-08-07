@@ -1,4 +1,4 @@
-# Hi, I'm Mauro Camara Escudero
+# Hey!
 ### Who I am
 Hi! I'm a first-year PhD student in [Computational Statistics and Data Science](https://compass.blogs.bristol.ac.uk/students/mauro-camara-escudero/) at the Univerisity of Bristol where I focus on combining generative models (VAEs, GANs and Normalizing Flows) with scalable sampling methods (MCMC and SMC samplers) to perform likelihood-free inference in large and complex big data applications. One of my main applications is population genetics.
 
