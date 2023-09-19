@@ -5,7 +5,10 @@ Hi! I'm a final-year PhD student in [Computational Statistics and Data Science](
 ### Where to find more information about me
 On my [website](https://maurocamaraescudero.netlify.app/) you can read:
 - Machine Learning [posts](https://maurocamaraescudero.netlify.app/post/)
-- A [list](https://maurocamaraescudero.netlify.app/industry/) of industry collaborations during my PhD such as providing a machine learning solution to LV and data science consultancy to EcoPowerSoft and Wessex Water.
+- [Industry Collaborations])(https://maurocamaraescudero.netlify.app/industry/) during my PhD (e.g. with Wessex Water, EcoPowerSoft).
+- [Talks](https://maurocamaraescudero.netlify.app/#talk)
+- [Short Computational Statistics Courses](https://maurocamaraescudero.netlify.app/ramblings/) I have written.
+- [Coding Portfolio](https://maurocamaraescudero.netlify.app/#projects)
 
 ### API Portfolio
 - [Spotify Wrapped Weekly](https://maurocamaraescudero.netlify.app/project/spotify_mood_ring/)
