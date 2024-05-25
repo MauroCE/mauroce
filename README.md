@@ -1,6 +1,6 @@
 # Hey!
 ### Who I am
-Hi! I'm a final-year PhD student in [Computational Statistics and Data Science](https://compass.blogs.bristol.ac.uk/students/mauro-camara-escudero/) at the Univerisity of Bristol where I focus on combining generative models (VAEs, GANs and Normalizing Flows) with scalable sampling methods (MCMC and SMC samplers) to perform likelihood-free inference in large and complex big data applications. One of my main applications is population genetics, but my methods can be applied in ecology, astronomy, economics, biology and physics. I have developed the first family of algorithms for [Approximate Manifold Sampling](https://maurocamaraescudero.netlify.app/talk/bayescomp2023/).
+Hey! I'm a Research Associate in Statistical Machine Learning at the University of Bristol, working with Christophe Andrieu. My research focuses on standard Bayesian inference, and generative models (VAEs, GANs, Normalizing Flows, Diffusion Models, Transformers). Before that, I was a PhD student in [Computational Statistics and Data Science](https://compass.blogs.bristol.ac.uk/students/mauro-camara-escudero/) and I worked on [Approximate Manifold Sampling](https://maurocamaraescudero.netlify.app/talk/bayescomp2023/) and [Integrator Snippets](https://arxiv.org/abs/2404.13302), especially applied to likelihood-free inference and Bayesian inverse problems. I organize the [Generative Models Reading Group](https://github.com/MauroCE/GMRG).
 
 ### Where to find more information about me
 On my [website](https://maurocamaraescudero.netlify.app/) you can read:
